@@ -1,0 +1,122 @@
+[
+  {
+    "img": "imagenes/iPhone 13 Pro.jpg",
+    "nombre": "iPhone 13 Pro",
+    "precio": 1099.99,
+    "id": 0,
+    "caracteristicas": [
+      "Pantalla Super Retina XDR",
+      "Chip A15 Bionic con Neural Engine",
+      "Cámara triple de 12 MP con modo Noche",
+      "Cerámica Shield para mayor durabilidad"
+    ]
+  },
+  {
+    "img": "imagenes/Samsung Galaxy S21.jpg",
+    "nombre": "Samsung Galaxy S21",
+    "precio": 799.99,
+    "id": 1,
+    "caracteristicas": [
+      "Pantalla Dynamic AMOLED 2X",
+      "Procesador Exynos 2100",
+      "Cámara triple de 12 MP con zoom espacial",
+      "Compatibilidad con S Pen (se vende por separado)"
+    ]
+  },
+  {
+    "img": "imagenes/Google Pixel 6.jpg",
+    "nombre": "Google Pixel 6",
+    "precio": 699.99,
+    "id": 2,
+    "caracteristicas": [
+      "Pantalla OLED de 6.4 pulgadas",
+      "Procesador Google Tensor",
+      "Cámara dual de 50 MP y 12 MP",
+      "Carga rápida y carga inalámbrica"
+    ]
+  },
+  {
+    "img": "imagenes/OnePlus 9.jpg",
+    "nombre": "OnePlus 9",
+    "precio": 699.00,
+    "id": 3,
+    "caracteristicas": [
+      "Pantalla Fluid AMOLED de 6.55 pulgadas",
+      "Procesador Qualcomm Snapdragon 888",
+      "Cámara triple de 48 MP con Hasselblad",
+      "Carga Warp Charge 65T"
+    ]
+  },
+  {
+    "img": "imagenes/Xiaomi Mi 11.jpg",
+    "nombre": "Xiaomi Mi 11",
+    "precio": 599.99,
+    "id": 4,
+    "caracteristicas": [
+      "Pantalla AMOLED de 6.81 pulgadas",
+      "Procesador Qualcomm Snapdragon 888",
+      "Cámara triple de 108 MP",
+      "Carga rápida de 55 W"
+    ]
+  },
+  {
+    "img": "imagenes/Sony Xperia 1 III.jpg",
+    "nombre": "Sony Xperia 1 III",
+    "precio": 1099.00,
+    "id": 5,
+    "caracteristicas": [
+      "Pantalla 4K HDR OLED de 6.5 pulgadas",
+      "Procesador Qualcomm Snapdragon 888",
+      "Cámara triple ZEISS de 12 MP",
+      "Audio de alta resolución y sonido 360 Reality Audio"
+    ]
+  },
+  {
+    "img": "imagenes/Huawei P40 Pro.jpg",
+    "nombre": "Huawei P40 Pro",
+    "precio": 799.00,
+    "id": 6,
+    "caracteristicas": [
+      "Pantalla OLED de 6.58 pulgadas",
+      "Procesador Kirin 990 5G",
+      "Cámara cuádruple Leica de 50 MP",
+      "Capacidad de zoom SuperSensing"
+    ]
+  },
+  {
+    "img": "imagenes/LG G8 ThinQ.webp",
+    "nombre": "LG G8 ThinQ",
+    "precio": 499.99,
+    "id": 7,
+    "caracteristicas": [
+      "Pantalla OLED FullVision de 6.1 pulgadas",
+      "Procesador Qualcomm Snapdragon 855",
+      "Cámara frontal Z Cámara de 8 MP",
+      "Audio de alta calidad con Boombox Speaker"
+    ]
+  },
+  {
+    "img": "imagenes/Motorola Moto G Power.jpg",
+    "nombre": "Motorola Moto G Power",
+    "precio": 249.99,
+    "id": 8,
+    "caracteristicas": [
+      "Pantalla Max Vision de 6.4 pulgadas",
+      "Batería de 5000 mAh para un rendimiento duradero",
+      "Cámara triple de 16 MP",
+      "Lector de huellas digitales trasero"
+    ]
+  },
+  {
+    "img": "imagenes/Nokia 9 PureView.webp",
+    "nombre": "Nokia 9 PureView",
+    "precio": 499.00,
+    "id": 9,
+    "caracteristicas": [
+      "Pantalla pOLED de 5.99 pulgadas",
+      "Cámara penta-lente de 5 sensores de 12 MP",
+      "Procesador Qualcomm Snapdragon 845",
+      "Android One para actualizaciones rápidas del sistema"
+    ]
+  }
+]

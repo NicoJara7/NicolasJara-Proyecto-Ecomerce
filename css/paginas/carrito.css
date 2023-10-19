@@ -1,0 +1,113 @@
+/* telefonos*/
+
+/* tablets*/
+
+@media screen and (min-width: 320px){
+
+    nav{
+        width: 100vw;
+        
+    }
+
+    
+    .form-nav{
+        width: 80%;
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 0;
+        margin-left: 5px;
+    }
+    
+    .boton-nav{
+        width: 50px;
+        height: 80px;
+        background-color: var(--color-nav);
+        border: none;
+        
+    }
+
+    main{
+        background-color: var(--color-main);
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .lista-carrito{
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        height: 40px;
+        background-color: var(--color-aside);
+        
+
+    }
+
+    .form-comprar{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    .boton-comprar{
+        transform: scale(1.2);
+        padding: 5px;
+        background-color: var(--color-aside);
+        border: none;
+        border-radius: 3px;
+    }
+
+
+.oculto{
+display: none;
+}
+
+
+}
+
+
+/*monitores*/
+
+@media screen and (min-width :1024px) {
+    main{
+       height: calc(100vh - 80px);
+       width: 100vw;
+    }
+    
+    nav{
+       min-height: 80px;
+    }
+    .form-nav{
+       display: none;
+    }
+ 
+    .lista-nav{
+       display: flex;
+       width: 80%;
+       height: 80px;
+       justify-content: space-evenly;
+       align-items: center;
+       flex-direction: row;
+       background-color: var(--color-nav);
+       position: fixed;
+       transform: translateX(28%);
+       top: 0;
+       outline: none;
+    }
+ 
+    .form-carrito{
+       
+       margin-right: 20px;
+       
+    }
+     
+ }
